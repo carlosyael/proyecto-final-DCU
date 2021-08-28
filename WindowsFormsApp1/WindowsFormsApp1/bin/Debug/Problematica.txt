@@ -1,0 +1,16 @@
+Nombre: Carlos
+ Apellido: De los santos
+Cedula: 66452
+Telefono: 65465
+
+locacion*********************
+
+provincia: Santo Domingo
+Municipio: Santo Domingo Este
+Sector: Invivienda
+Coordenadas: 
+
+problematica**************
+
+Problematica: Deterioro del asfalto en calles
+Descripcion: En la calle 21, la calle esta con deterioro en varios lugares lo que dificulta el trafico vehicular
