@@ -1,16 +1,16 @@
-Nombre: Carlos
- Apellido: De los santos
-Cedula: 66452
-Telefono: 65465
+Nombre: Anonimo
+ Apellido: Anonimo
+Cedula: Anonimo
+Telefono: Anonimo
 
 locacion*********************
 
-provincia: Santo Domingo
-Municipio: Santo Domingo Este
-Sector: Invivienda
-Coordenadas: 
+provincia: wwwsds
+Municipio: sd
+Sector: sds
+Coordenadas: sdsd
 
 problematica**************
 
-Problematica: Deterioro del asfalto en calles
-Descripcion: En la calle 21, la calle esta con deterioro en varios lugares lo que dificulta el trafico vehicular
+Problematica: Alcantarillas sin tapas
+Descripcion: sdsd

@@ -19,6 +19,17 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            comboBox1.Items.Add("Recogida de basura");
+            comboBox1.Items.Add("Calles sin asfaltar");
+            comboBox1.Items.Add("Problemas de desague en calles");
+            comboBox1.Items.Add("Alcantarillas sin tapas");
+            comboBox1.Items.Add("Deterioro del asfalto en calles");
+            comboBox1.Items.Add("Árboles caídos en la vía pública ");
+            comboBox1.Items.Add("Alambrado en las calles");
+            comboBox1.Items.Add("Calles sin señalizaciones");
+            comboBox1.Items.Add("Desliz de tierra");
+            comboBox1.Items.Add("Incendio forestal");
+            
         }
         
         private void label1_Click(object sender, EventArgs e)
@@ -33,17 +44,18 @@ namespace WindowsFormsApp1
 
         private void groupBox4_Enter(object sender, EventArgs e)
         {
-            
-            comboBox1.Items.Add("Recogida de basura");
-            comboBox1.Items.Add("Calles sin asfaltar");
-            comboBox1.Items.Add("Problemas de desague en calles");
-            comboBox1.Items.Add("Alcantarillas sin tapas");
-            comboBox1.Items.Add("Deterioro del asfalto en calles");
-            comboBox1.Items.Add("Árboles caídos en la vía pública ");
-            comboBox1.Items.Add("Alambrado en las calles");
-            comboBox1.Items.Add("Calles sin señalizaciones");
-            comboBox1.Items.Add("Desliz de tierra");
-            comboBox1.Items.Add("Incendio forestal");
+            /*
+                comboBox1.Items.Add("Recogida de basura");
+                comboBox1.Items.Add("Calles sin asfaltar");
+                comboBox1.Items.Add("Problemas de desague en calles");
+                comboBox1.Items.Add("Alcantarillas sin tapas");
+                comboBox1.Items.Add("Deterioro del asfalto en calles");
+                comboBox1.Items.Add("Árboles caídos en la vía pública ");
+                comboBox1.Items.Add("Alambrado en las calles");
+                comboBox1.Items.Add("Calles sin señalizaciones");
+                comboBox1.Items.Add("Desliz de tierra");
+                comboBox1.Items.Add("Incendio forestal");
+            */
 
         }
 
@@ -83,6 +95,7 @@ namespace WindowsFormsApp1
             TBcoordenadas.Text = "";
             TBdescripcion.Text = "";
             comboBox1.SelectedItem = null;
+            
 
         }
 
